@@ -20,7 +20,6 @@
    - [Average Debt by Country](#average-debt-by-country)
    - [Highest Principal Repayment](#highest-principal-repayment)
    - [Most Common Debt Indicator](#most-common-debt-indicator)
-7. [License](#license)
 
 ## Description
 
