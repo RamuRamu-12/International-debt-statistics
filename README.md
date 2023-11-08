@@ -47,7 +47,7 @@ Before using the project, make sure you have the following prerequisites install
 
 ### Installation
 
-1. Clone or download the project repository from [GitHub](https://github.com/yourusername/international-debt-analysis).
+1. Clone or download the project repository from [GitHub](https://github.com/RamuRamu-12/international-debt-statistics).
 
 2. Install the required Python libraries using pip:
 
