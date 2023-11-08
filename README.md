@@ -52,35 +52,33 @@ Before using the project, make sure you have the following prerequisites install
 
 2. Install the required Python libraries using pip:
 
-```bash
-pip install pandas
-pip install plotly
 
 ###  Usage
 
 The International Debt Analysis Project provides various functionalities for analyzing and visualizing international debt data.
 
- ### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 The project includes extensive exploratory data analysis to gain insights into the dataset. It explores data statistics, data types, and unique country names and indicator codes.
 Visualization
 The project utilizes Plotly Express for data visualization. It includes scatter plots and bar plots to visualize debt data by country and indicator.
 
- ### Data Aggregation
+### Data Aggregation
 
 The project aggregates data to calculate total debt and average debt values by country, offering a comprehensive view of debt statistics.
- ### Analysis and Insights
+
+### Analysis and Insights
 The project identifies the country with the highest principal repayment and the corresponding indicator. It also determines the most common debt indicator in the dataset.
 
 ### Data Source
 The project uses data from the "international_debt.csv" file located in the project directory. This dataset contains information on international debt, including country names, indicators, and debt values.
 
 ### Functionality
-Total Debt by Country
+#### Total Debt by Country
 The project calculates and visualizes the total debt by country, providing a summary of the overall debt burden.
-Average Debt by Country
+#### Average Debt by Country
 It calculates and visualizes the average debt by country, offering insights into the average debt levels in different countries.
-Highest Principal Repayment
+#### Highest Principal Repayment
 The project identifies the country with the highest principal repayment and displays the corresponding indicator name, shedding light on significant debt repayments.
-Most Common Debt Indicator
+#### Most Common Debt Indicator
 It finds and displays the most common debt indicator in the dataset, highlighting the prevailing debt type.
